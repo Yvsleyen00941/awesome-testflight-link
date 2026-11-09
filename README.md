@@ -1156,6 +1156,7 @@ _⚠️ These 4 apps have reached their tester limit. Try checking back later._
 
 
 ## macOS App List
+- [Needle](https://github.com/Yvsleyen00941/Needle) - 原生 macOS Dock 边角音乐播放器挂件 (Swift & SwiftUI).
 
 <details open>
 <summary><strong>Available (24 apps)</strong> - Apps currently accepting new testers</summary>
